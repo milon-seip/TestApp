@@ -1,0 +1,25 @@
+E:\BASIS_SEIP .NET training\12.05.2015(17 Day)\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe.config
+E:\BASIS_SEIP .NET training\12.05.2015(17 Day)\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe
+E:\BASIS_SEIP .NET training\12.05.2015(17 Day)\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.pdb
+E:\BASIS_SEIP .NET training\12.05.2015(17 Day)\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.Properties.Resources.resources
+E:\BASIS_SEIP .NET training\12.05.2015(17 Day)\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.UI.DepartmentUI.resources
+E:\BASIS_SEIP .NET training\12.05.2015(17 Day)\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.UI.MenuUI.resources
+E:\BASIS_SEIP .NET training\12.05.2015(17 Day)\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.StudentUI.resources
+E:\BASIS_SEIP .NET training\12.05.2015(17 Day)\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csproj.GenerateResource.Cache
+E:\BASIS_SEIP .NET training\12.05.2015(17 Day)\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.exe
+E:\BASIS_SEIP .NET training\12.05.2015(17 Day)\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+E:\BASIS_SEIP .NET training\12.05.2015(17 Day)\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+E:\BASIS_SEIP training (.NET)\BASIS_SEIP .NET training\12.05.2015(17 Day)\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe.config
+E:\BASIS_SEIP training (.NET)\BASIS_SEIP .NET training\12.05.2015(17 Day)\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.exe
+E:\BASIS_SEIP training (.NET)\BASIS_SEIP .NET training\12.05.2015(17 Day)\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+E:\BASIS _SEIP - Practice (.NET)\Database Practice App\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe.config
+E:\BASIS _SEIP - Practice (.NET)\Database Practice App\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.exe
+E:\BASIS _SEIP - Practice (.NET)\Database Practice App\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
+E:\BASIS _SEIP - Practice (.NET)\Database Practice App\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe
+E:\BASIS _SEIP - Practice (.NET)\Database Practice App\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.pdb
+E:\BASIS _SEIP - Practice (.NET)\Database Practice App\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+E:\BASIS _SEIP - Practice (.NET)\Database Practice App\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.Properties.Resources.resources
+E:\BASIS _SEIP - Practice (.NET)\Database Practice App\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.UI.DepartmentUI.resources
+E:\BASIS _SEIP - Practice (.NET)\Database Practice App\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.UI.MenuUI.resources
+E:\BASIS _SEIP - Practice (.NET)\Database Practice App\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.StudentUI.resources
+E:\BASIS _SEIP - Practice (.NET)\Database Practice App\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csproj.GenerateResource.Cache
